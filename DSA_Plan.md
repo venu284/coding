@@ -1,4 +1,4 @@
-# Hybrid DSA Study Plan — Neetcode + Concept-First Learning
+# DSA Study Plan — Neetcode + Concept-First Learning
 
 **Duration:** 26 weeks (6 months)
 **Weekly commitment:** ~10 hours (1–2 hrs weekdays, 2–3 hrs weekends)
