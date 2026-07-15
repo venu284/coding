@@ -4,6 +4,13 @@ Daily LeetCode practice repository for Python solutions, notes, and reflections.
 
 Each problem has its own folder named after the problem title using lowercase kebab-case.
 
+## Study system
+
+- **[`patterns/`](patterns/README.md) — the fast-pace, pattern-first speedrun (start here).**
+  19 patterns behind Blind 75, runnable template bank, 38 anchor problems, a
+  problem→pattern decision tree, a front-loaded drill schedule, and a live interview protocol.
+- [`DSA_Plan.md`](DSA_Plan.md) — the long track: 26-week concept-first walk through Blind 75 → NeetCode 150.
+
 ## Layout
 
 ```text

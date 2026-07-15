@@ -1,5 +1,9 @@
 # DSA Study Plan — Neetcode + Concept-First Learning
 
+> **This is the LONG TRACK (reference).** For the fast-pace, pattern-first system —
+> the primary plan — see [`patterns/`](patterns/README.md). Use this doc for deeper
+> concept notes and extra problems; follow `patterns/` where the two differ.
+
 **Duration:** 26 weeks (6 months)
 **Weekly commitment:** ~10 hours (1–2 hrs weekdays, 2–3 hrs weekends)
 **Target:** 300+ problems, interview-ready
