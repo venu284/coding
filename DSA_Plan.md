@@ -99,11 +99,11 @@ if __name__ == "__main__":
 - [1] Contains Duplicate
 - [1] Valid Anagram
 - [1] Group Anagrams
-- [ ] Top K Frequent Elements
-- [ ] Product of Array Except Self
+- [1] Top K Frequent Elements
+- [1] Product of Array Except Self
 - [ ] Valid Sudoku
 - [ ] Encode and Decode Strings
-- [ ] Longest Consecutive Sequence
+- [1] Longest Consecutive Sequence
 
 **Pattern trigger:** "Find/count/group" → hash map. "O(n²) brute force with nested loops" → hash map makes it O(n).
 
@@ -118,10 +118,10 @@ if __name__ == "__main__":
 - The "while left < right" template
 
 **Blind 75 — Two Pointers (5):**
-- [ ] Valid Palindrome
-- [ ] Two Sum II (Input Array Is Sorted)
-- [ ] 3Sum
-- [ ] Container With Most Water
+- [1] Valid Palindrome
+- [1] Two Sum II (Input Array Is Sorted)
+- [1] 3Sum
+- [1] Container With Most Water
 - [ ] Trapping Rain Water
 
 **Blind 75 — Sliding Window (4):**
