@@ -9,6 +9,9 @@ Each problem has its own folder named after the problem title using lowercase ke
 - **[`patterns/`](patterns/README.md) — the fast-pace, pattern-first speedrun (start here).**
   19 patterns behind Blind 75, runnable template bank, 38 anchor problems, a
   problem→pattern decision tree, a front-loaded drill schedule, and a live interview protocol.
+- **[`concepts/`](concepts/README.md) — the deep-learning and interview-revision system.**
+  Foundations, data structures, algorithms, techniques, advanced topics, quick
+  revision cards, decision tables, practice maps, and runnable Python templates.
 - [`DSA_Plan.md`](DSA_Plan.md) — the long track: 26-week concept-first walk through Blind 75 → NeetCode 150.
 
 ## Layout
@@ -16,6 +19,9 @@ Each problem has its own folder named after the problem title using lowercase ke
 ```text
 .
 ├── README.md
+├── concepts/
+│   ├── README.md
+│   └── 03_template_bank.py
 ├── templates/
 │   └── problem-readme.md
 └── problem-title/
